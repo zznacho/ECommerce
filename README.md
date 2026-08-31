@@ -73,8 +73,3 @@ Excepciones no controladas: Retorna estado 500 Internal Server Error.
 
 📄 Licencia
 Este proyecto es de uso libre y educativo bajo la licencia MIT.
-
-
----
-
-Puedes guardar este contenido en la raíz de tu proyecto con el nombre **`README.md`**.
