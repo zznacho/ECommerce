@@ -70,8 +70,8 @@ Requisito: .NET 8 SDK instalado.
 Clonar el repositorio:
 
 Bash
-git clone [https://github.com/zznacho/Ecommerce-Backend.git](https://github.com/zznacho/Ecommerce-Backend.git)
-cd Ecommerce-Backend
+git clone [https://github.com/zznacho/Ecommerce.git](https://github.com/zznacho/Ecommerce.git)
+cd Ecommerce
 Restaurar dependencias:
 
 Bash
