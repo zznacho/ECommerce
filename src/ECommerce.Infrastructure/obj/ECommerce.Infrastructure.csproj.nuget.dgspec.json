@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {}
+    "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Application\\ECommerce.Application.csproj": {
+    "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Application\\ECommerce.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Application\\ECommerce.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Application\\ECommerce.Application.csproj",
         "projectName": "ECommerce.Application",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Application\\ECommerce.Application.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Application\\obj\\",
+        "projectPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Application\\ECommerce.Application.csproj",
+        "packagesPath": "C:\\Users\\Docente\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Docente\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj"
+              "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+                "projectPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj"
               }
             }
           }
@@ -76,17 +76,17 @@
         }
       }
     },
-    "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+    "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj",
         "projectName": "ECommerce.Domain",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj",
+        "packagesPath": "C:\\Users\\Docente\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Docente\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -134,17 +134,17 @@
         }
       }
     },
-    "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
+    "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
         "projectName": "ECommerce.Infrastructure",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Docente\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Docente\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -156,11 +156,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Application\\ECommerce.Application.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Application\\ECommerce.Application.csproj"
+              "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Application\\ECommerce.Application.csproj": {
+                "projectPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Application\\ECommerce.Application.csproj"
               },
-              "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj"
+              "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+                "projectPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj"
               }
             }
           }

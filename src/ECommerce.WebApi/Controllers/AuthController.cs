@@ -2,6 +2,7 @@ using ECommerce.Application.Common.Interfaces;
 using ECommerce.Domain.Constants;
 using ECommerce.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ECommerce.WebApi.Controllers;
 
@@ -55,6 +56,15 @@ public class AuthController : ControllerBase
 
         return Ok(new { token, role = user.Role });
     }
+    [HttpGet("users")]
+[Authorize(Roles = "Admin")] // Protegido para que solo el Admin lo consulte
+public async Task<IActionResult> GetAllUsers([FromServices] IUserRepository userRepository)
+{
+    // O invocando una Query de MediatR si preferís mantener CQRS puro
+    var users = await userRepository.GetAllAsync(); // o una consulta a tu DbContext
+    return Ok(users);
+}
+
 }
 
 // DTOs definidos en el mismo archivo

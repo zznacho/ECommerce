@@ -687,19 +687,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\Docente\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\services\\PaymentService\\PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\services\\PaymentService\\PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj",
       "projectName": "PaymentService.Infrastructure",
-      "projectPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\services\\PaymentService\\PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\services\\PaymentService\\PaymentService.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\services\\PaymentService\\PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Docente\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\services\\PaymentService\\PaymentService.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Docente\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -711,8 +711,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\services\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj": {
-              "projectPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\services\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj"
+            "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\services\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj": {
+              "projectPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\services\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj"
             }
           }
         }

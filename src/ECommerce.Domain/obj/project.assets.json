@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\Docente\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj",
       "projectName": "ECommerce.Domain",
-      "projectPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj",
-      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Desktop\\PROYECTOS\\ECommerce\\src\\ECommerce.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Domain\\ECommerce.Domain.csproj",
+      "packagesPath": "C:\\Users\\Docente\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Docente\\Desktop\\nacho\\ECommerce\\src\\ECommerce.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Docente\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
